@@ -8,8 +8,8 @@ This project analyzes Fitbit user data to derive meaningful insights about activ
 - Explore how sedentary behavior influences sleep and caloric burn.
 - Demonstrate scalability by implementing the analysis in Apache Spark for handling large datasets.
 
-## Datasets
-The datasets used for this analysis include daily activity and sleep data, focusing on variables such as:
+## Dataset
+The dataset used for this analysis include daily activity and sleep data, focusing on variables such as:
 - **Sedentary Minutes**: Time spent in sedentary activities.
 - **Total Steps**: Total steps taken by users in a day.
 - **Total Minutes Asleep**: Overall sleep duration.
